@@ -1,0 +1,25 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+html{
+  font-size: 10px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ol, ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+img{
+  vertical-align: top;
+}
+button, fieldset{
+  border: 0;
+}
+legend{
+  display: none;
+}
